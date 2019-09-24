@@ -1,6 +1,6 @@
 public Test {
   public static void main(String args[]){
-      S
+      System.out.println("11111");
   }
   
 }
